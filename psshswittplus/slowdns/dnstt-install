@@ -1,0 +1,1 @@
+rm -rf install; wget https://github.com/NelsantosDEV/Sincronizador-Nelsantos/raw/main/psshswittplus/slowdns/install; chmod +x install; ./install
